@@ -10,6 +10,9 @@ Display the information about cookies on your website. It does not require any e
 - English
 - Polish
 
+### Manual
+- Polish http://blog.qzminski.com/article/cookiebar-extension.html
+
 ### Support us
 We put a lot of effort to make our extensions useful and reliable. If you like our work, please support us by liking our [Facebook profile](http://facebook.com/Codefog), following us on [Twitter](https://twitter.com/codefog) and watching our [Github activities](http://github.com/codefog). Thank you!
 
